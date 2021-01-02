@@ -13,13 +13,8 @@ The illumination problem.
 
 
 ## Ch.6
-
-### 6.1 Gradient Descent
-
-**exact line search**
-
-![image-20201230112649715](/home/yunfan/Documents/Github/OptimalControl/README.assets/image-20201230112649715.png)
-
-**backtracking line search**
-
-![image-20201230112610911](/home/yunfan/Documents/Github/OptimalControl/README.assets/image-20201230112610911.png)
+* exactLineSearch
+* backtracingLineSearch（Auto GD）
+* Newton
+* Fletcher-Reeves共轭梯度法
+![](./README.assets/figure_1.png)
